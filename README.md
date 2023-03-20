@@ -26,8 +26,7 @@ Create a directory called `find_motif`, enter into this directory and clone this
 ```
 mkdir find_motif
 cd find_motif
-clone:
-
+git clone https://github.com/luhuim/find_motif.git
 ```
 ## Runing the program
 create position weight matrix
