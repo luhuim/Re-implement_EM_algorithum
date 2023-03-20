@@ -23,7 +23,7 @@ Procedure:
     4, finally got matrix-Z that converged
     5, write input file for tool "weblogo"
 Usage:
-    python main.py dataset/Dataset3.fasta output_file/dataset_3.txt -kmer 6 
+    python src/main.py data/Dataset7.fasta results/dataset_7.txt -kmer 6  
 """
 
 #Function that will be used
