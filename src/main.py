@@ -13,8 +13,8 @@ Description:
         W: the length of motif
 
 Function:
-    
-
+    initial_matrix_p (sub_seq, X=0.5, A=0.25,T=0.25,C=0.25,G=0.25)
+    EM(DNA_sequences,last_P, kmer, A,T, C, G )
 
 Procedure:
     1, setting the start points for EM, which is initial p-matrix
