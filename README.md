@@ -4,7 +4,7 @@ Write software that finds motifs in a dataset (generate your own data). See an e
 ```
 0.0.1
 ```
-# Environment Requirement
+# Create environment and install package
 Create a conda environment called `binp29`
 ```
 conda create --name binp29 python=3.9
